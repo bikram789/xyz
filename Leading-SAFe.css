@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/pexels-mikhail-nilov-7583935.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -19,14 +20,11 @@
 .u-section-1 .u-text-1 {
   font-size: 2.25rem;
   letter-spacing: 3px;
+  text-transform: none;
   margin: 20px 20px 0;
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 460px;
   }
@@ -39,7 +37,6 @@
 
   .u-section-1 .u-text-1 {
     position: relative;
-    text-transform: none;
   }
 }
 
@@ -570,6 +567,7 @@
   }
 } .u-section-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/pexels-julia-m-cameron-4144294.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -583,10 +581,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-5 {
-    background-position: 50% 50%;
-  }
-
   .u-section-5 .u-sheet-1 {
     min-height: 709px;
   }
@@ -1018,6 +1012,7 @@
   }
 } .u-section-8 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url("images/pexels-christina-morillo-1181474.jpg");
+  background-position: 56.33% 50%;
 }
 
 .u-section-8 .u-sheet-1 {
@@ -1117,10 +1112,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-8 {
-    background-position: 56.33% 50%;
-  }
-
   .u-section-8 .u-sheet-1 {
     min-height: 1435px;
   }
@@ -1710,6 +1701,7 @@
   }
 } .u-section-10 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url("images/pexels-mikhail-nilov-7583935.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-10 .u-sheet-1 {
@@ -1959,10 +1951,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-10 {
-    background-position: 50% 50%;
-  }
-
   .u-section-10 .u-sheet-1 {
     min-height: 1619px;
   }
